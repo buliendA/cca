@@ -1,9 +1,6 @@
-<head>
-<title>
-hehe
-</title>
+
  
-<link rel="stylesheet" href="test.css">
+<div id="mainheader">
+        	<h1>This is my Heading</h1>
+</div>
  
-        	</head>
-<body>
