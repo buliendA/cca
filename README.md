@@ -1,9 +1,10 @@
 
+
  
-<div style="float: left; border: solid; border-color: #C12528">
+<div style="float: left; border: solid; border-color: #C12528; width: 400px;">
 <p>
-This is where information to be presented to the user is entered.
+PLEASE KILL ME NOW
 </p>
 </div>
-<div style="float: right; border: solid">
+<div style="float: right; border: solid; width: 400px;">
  
